@@ -95,3 +95,14 @@ String a = "abcde";
         } else {
             System.out.println("The directory or file does not exist.\n");
         }
+
+
+===========7=========
+  File file = new File("C:\\Users\\hp\\Desktop");
+        String[] fileList = file.list();
+        for (String name : fileList) {
+            System.out.println(name);
+        }
+
+
+
