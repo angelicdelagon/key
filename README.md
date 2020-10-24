@@ -105,4 +105,14 @@ String a = "abcde";
         }
 
 
-
+TABLE CLASS
+.table	Adds basic styling (light padding and only horizontal dividers) to any <table>	
+.table-striped	Adds zebra-striping to any table row within <tbody> (not available in IE8)	
+.table-bordered	Adds border on all sides of the table and cells	
+.table-hover	Enables a hover state on table rows within a <tbody>	
+.table-condensed	Makes table more compact by cutting cell padding in half
+.active	Applies the hover color (light-grey) to a particular row or cell	
+.success	Indicates a successful or positive action	
+.info	Indicates a neutral informative change or action	
+.warning	Indicates a warning that might need attention	
+.danger	Indicates a dangerous or potentially negative action
